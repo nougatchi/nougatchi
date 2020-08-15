@@ -1,14 +1,14 @@
 # I am Nougatchi.
 
-I make computers do my bidding. Proud "founder" of Psychosis Interactive.
+I make computers do my bidding. Sole creator of Psychosis Interactive.
 
 Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vitalityx) and RDM.
 
 # My projects
 1. [VitalityX](https://github.com/psychosisinteractive/vitalityx)
-3. RDM
-2. [Dreary](https://github.com/nougatchi/dreary)
-3. [Dreamsacpe](https://github.com/nougatchi/dreamscape)
+2. RDM
+3. [Dreary](https://github.com/nougatchi/dreary)
+4. [Dreamsacpe](https://github.com/nougatchi/dreamscape)
 
 # Opinions
 1. The Unlicense does nothing to further help Open Source Software, by allowing its software to become Proprietary and unable to be learnt from.
