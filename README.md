@@ -1,6 +1,6 @@
 # I am Nougatchi.
 
-I make computers do my bidding.
+I make computers do my bidding. Proud "founder" of Psychosis Interactive.
 
 Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vitalityx).
 
