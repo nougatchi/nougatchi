@@ -2,10 +2,11 @@
 
 I make computers do my bidding. Proud "founder" of Psychosis Interactive.
 
-Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vitalityx).
+Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vitalityx) and RDM.
 
 # My projects
 1. [VitalityX](https://github.com/psychosisinteractive/vitalityx)
+3. RDM
 2. [Dreary](https://github.com/nougatchi/dreary)
 3. [Dreamsacpe](https://github.com/nougatchi/dreamscape)
 
