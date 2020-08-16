@@ -15,7 +15,8 @@ Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vi
 2. The JSON license is not Open Source, as its clause of "The Software shall be used for Good, not Evil." is too dependant on the licensee, allowing this licensee to determine which software is "Good" software, and which software is "Evil" software.
 3. Software which makes operating a system easier (e.g. drivers) should NOT be propietary. Unless if the API's to access this software a public there should be no "monopoly" over certain hardware.
 4. Real life languages should be standardized as with programming languages. A common convention similar to the C convention (ex, latin english) would be useful. There is no practical reason other then culture to keep these languages around, and there should be 1 de facto/de jure language that everyone must know.
-6. Software should not be limited by OS. Either an OS provides better utilities for further intergrating software not designed for its OS or software developers work to port their software to other platforms.
+5. Software should not be limited by OS. Either an OS provides better utilities for further intergrating software not designed for its OS or software developers work to port their software to other platforms.
+6. Open Source is not just publishing your source to the masses out of "goodwill", its allowing anyone to take your source and do what they want aslong as they themselves do not interrupt the processes of Open Source.
 
 # Quotations
 > Freedom of expression is the matrix, the indispensable condition, of nearly every other form of freedom. - Benjamin N. Cardozo
