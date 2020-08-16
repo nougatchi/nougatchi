@@ -14,6 +14,7 @@ Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vi
 1. The Unlicense does nothing to further help Open Source Software, by allowing its software to become Proprietary and unable to be learnt from.
 2. The JSON license is not Open Source, as its clause of "The Software shall be used for Good, not Evil." is too dependant on the licensee, allowing this licensee to determine which software is "Good" software, and which software is "Evil" software.
 3. Software which makes operating a system easier (e.g. drivers) should NOT be propietary. Unless if the API's to access this software a public there should be no "monopoly" over certain hardware.
+4. Real life languages should be standardized as with programming languages. A common convention similar to the C convention (ex, latin english) would be useful. There is no practical reason other then culture to keep these languages around, and there should be 1 de facto/de jure language that everyone must know.
 
 # Quotations
 > Freedom of expression is the matrix, the indispensable condition, of nearly every other form of freedom. - Benjamin N. Cardozo
