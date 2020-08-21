@@ -34,3 +34,5 @@ Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vi
 > There's no fine line between "free speech" and "hate speech": Free speech is hate speech; it's for the speech you hate – and for all your speech that the other guy hates. If you don't have free speech, then you can't have an honest discussion. - Mark Steyn
 
 > The people supporting free speech now are the conservatives. It’s incomprehensible to me, but it’s the so-called liberals on campus, the students who think of themselves as activists, who are becoming increasingly authoritarian. So I’m trying to step carefully. It’s not like you want to make certain allies, particularly the men’s rights people. - Laura Kipnis
+
+![It was Danny Elfman all along](dannysez.png)
