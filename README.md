@@ -1,5 +1,7 @@
 # I am Nougatchi.
 
+![](https://raw.githubusercontent.com/nougatchi/nougatchi/master/abysmal.gif) ![](https://raw.githubusercontent.com/nougatchi/nougatchi/master/aterral.gif) ![](https://raw.githubusercontent.com/nougatchi/nougatchi/master/apprehensible.gif)
+
 I make computers do my bidding. Sole creator of [Psychosis Interactive](https://github.com/psychosisinteractive).
 
 Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vitalityx) and RDM.
@@ -35,4 +37,4 @@ Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vi
 
 > The people supporting free speech now are the conservatives. It’s incomprehensible to me, but it’s the so-called liberals on campus, the students who think of themselves as activists, who are becoming increasingly authoritarian. So I’m trying to step carefully. It’s not like you want to make certain allies, particularly the men’s rights people. - Laura Kipnis
 
-![It was Danny Elfman all along](https://raw.githubusercontent.com/nougatchi/nougatchi/master/dannysez.png)
+![It was Danny Elfman all along](https://raw.githubusercontent.com/nougatchi/nougatchi/master/dannysez.png)f
