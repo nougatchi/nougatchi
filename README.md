@@ -6,6 +6,9 @@ I make computers do my bidding. Sole creator of [Psychosis Interactive](https://
 
 Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vitalityx) and RDM.
 
+## How I fill my superiority complex
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nougatchi)](https://github.com/anuraghazra/github-readme-stats)
+
 # My projects
 1. [VitalityX](https://github.com/psychosisinteractive/vitalityx)
 2. RDM
