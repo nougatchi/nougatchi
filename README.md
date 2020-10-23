@@ -6,9 +6,11 @@ Currently I am working on [VitalityX](https://github.com/psychosisinteractive/vi
 
 # My projects
 1. [VitalityX](https://github.com/psychosisinteractive/vitalityx)
-2. RDM
-3. [Dreary](https://github.com/nougatchi/dreary)
-4. [Dreamsacpe](https://github.com/nougatchi/dreamscape)
+2. [DNACode](https://github.com/nougatchi/dnacode00)
+3. [NDorsk](https://github.com/nougatchi/ndorsk)
+4. RDM
+5. [Dreary](https://github.com/nougatchi/dreary)
+6. [Dreamsacpe](https://github.com/nougatchi/dreamscape)
 
 # Things you should check out that arent mine or that I am not developing
 1. [ReactOS](https://github.com/reactos/reactos)
